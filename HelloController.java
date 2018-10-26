@@ -14,6 +14,6 @@ public class HelloController {
     public String bye(){
         return "First SpringBoot";
     }
-    
+
 
 }
