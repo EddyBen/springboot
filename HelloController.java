@@ -8,7 +8,8 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "First SpringBoot444";
+        return "First SpringBoot444gggg" +
+                "";
     }
     @RequestMapping("/bye")
     public String bye(){
